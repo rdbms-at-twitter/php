@@ -3,15 +3,15 @@
 Studying Laravel
 
 # Sample PHP Files
-## Controllers <br>
+## Controllers 
 
 ```
-/laravel_project/app/Http/Controllers/ <br>
+/laravel_project/app/Http/Controllers/ 
 ```
 ## Routes <br>
 
 ```
-/laravel_project/routes/ <br>
+/laravel_project/routes/ 
 ```
 ## Views <br>
 
@@ -22,6 +22,6 @@ Studying Laravel
 # DB Config
 
 ```
-/laravel_project/config/database.php <br>
+/laravel_project/config/database.php 
 .env
 ```
